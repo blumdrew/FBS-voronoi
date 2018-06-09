@@ -1,0 +1,2 @@
+This folder contains the shapefiles needed to create the map
+availible from https://www.census.gov/geo/maps-data/data/cbf/cbf_state.html
